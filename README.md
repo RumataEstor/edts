@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/RumataEstor/edts.svg?branch=master)](https://travis-ci.org/RumataEstor/edts)
+
                                      __    __
                                     |  \  |  \
                       ______    ____| $$ _| $$_     _______
